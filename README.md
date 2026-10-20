@@ -14,7 +14,7 @@ Implementación del método de Gauss-Jordan, reutilizando el módulo de Eliminac
 Requisito: JDK 11 o superior.
 
 ```bash
-git clone <URL-DE-TU-REPOSITORIO>
+git clone <URL-DE-SU-REPOSITORIO>
 cd <carpeta-del-repositorio>
 mkdir out
 javac -d out src/*.java
